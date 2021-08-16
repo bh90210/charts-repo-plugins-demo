@@ -1,4 +1,8 @@
-# Charts Repo Actions Demo
+<p align="center">
+  <img width="26%" src="https://user-images.githubusercontent.com/22690219/129509774-d6a6b317-e0f9-4e59-83ab-3ee9986c796a.png" />
+</p>
+
+# Charts Repo Plugins Demo
 
 [![](https://github.com/helm/charts-repo-actions-demo/workflows/Release%20Charts/badge.svg?branch=main)](https://github.com/helm/charts-repo-actions-demo/actions)
 
